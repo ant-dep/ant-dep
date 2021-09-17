@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lHimiko
-- 👀 I’m interested in FrontEnd development and Crypto #Bitcoin
-- 🌱 I’m currently learning Frontend skills and JS in paticular
-- 💞️ I’m looking to collaborate in the future on open source projects mainly based on Front End app
+- 👀 I’m interested in FrontEnd development, Blockchain and Crypto Bitcoin🚀🌑
+- 🌱 I’m currently improving my Frontend skills with React.js/Native in paticular
+- 💞️ I’m looking to go ahead with Blockchain technologies and links it with FrontEnd apps
 - 📫 How to reach me : depertat@hotmail.fr or through @antoine.d.p (Instagram), @lHimiko_ (twitter) and Antoine de Pertat (LindkedIn)
 
 <!---
