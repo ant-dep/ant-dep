@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lHimiko
-- 👀 I’m interested in FrontEnd development, Blockchain and Crypto Bitcoin🚀🌑
-- 🌱 I’m currently improving my Frontend skills with React.js/Native in paticular
+- 👀 I’m interested in FrontEnd development, Web 3.0, Blockchain and Crypto Bitcoin🚀🌑
+- 🌱 I’m currently improving my Frontend skills with React.js/Native
 - 💞️ I’m looking to go ahead with Blockchain technologies and links it with FrontEnd apps
 
 <!---
